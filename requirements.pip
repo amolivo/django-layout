@@ -4,5 +4,5 @@
 #
 #     pip install -r requirements.pip
 
-Django==1.6.5
-#south==0.7.6
+django==1.6.5
+south==0.8.4
